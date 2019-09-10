@@ -1,0 +1,12 @@
+https://www.tutorialspoint.com/dip/
+https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+https://www.loom.com/share/7491feadaf5a45059b59eeb7e25af790?utm_medium=gif
+https://stackoverflow.com/questions/42701129/how-to-push-to-history-in-react-router-v4
+https://blog.logrocket.com/building-a-custom-dropdown-menu-component-for-react-e94f02ced4a1/
+https://www.npmjs.com/package/react-dropdown
+https://scriptverse.academy/tutorials/reactjs-select.html
+https://scriptverse.academy/tutorials/reactjs-select.html
+https://reactjs.org/docs/conditional-rendering.html
+https://stackoverflow.com/questions/35905988/react-js-how-to-append-a-component-on-click
+https://stackoverflow.com/questions/35905988/react-js-how-to-append-a-component-on-click
