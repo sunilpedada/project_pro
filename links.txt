@@ -10,3 +10,4 @@ https://scriptverse.academy/tutorials/reactjs-select.html
 https://reactjs.org/docs/conditional-rendering.html
 https://stackoverflow.com/questions/35905988/react-js-how-to-append-a-component-on-click
 https://stackoverflow.com/questions/35905988/react-js-how-to-append-a-component-on-click
+https://hashnode.com/post/how-can-i-add-items-to-object-lists-reactjs-cj8lu9fsu02gd00wuqkss1ixf
