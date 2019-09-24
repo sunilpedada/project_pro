@@ -11,3 +11,21 @@ https://reactjs.org/docs/conditional-rendering.html
 https://stackoverflow.com/questions/35905988/react-js-how-to-append-a-component-on-click
 https://stackoverflow.com/questions/35905988/react-js-how-to-append-a-component-on-click
 https://hashnode.com/post/how-can-i-add-items-to-object-lists-reactjs-cj8lu9fsu02gd00wuqkss1ixf
+https://www.youtube.com/watch?v=0d7cIfiydAc
+https://docs.djangoproject.com/en/2.2/ref/csrf/
+https://www.codementor.io/venkatingen/csrf-token-with-django-web-application-mxn85nm8x
+https://stackoverflow.com/questions/16458166/how-to-disable-djangos-csrf-validation
+https://riptutorial.com/django/example/18760/cross-site-request-forgery--csrf--protection
+
+RESPONSE {'ResponseMetadata': {'RequestId': 'FF39D21A6553F0B6', 'HostId': 
+'u1aVOXdsnSMYAM0Pw01+Ai5U74xTAT/2Jy98YA7Tu7IkfEIvqTSypFDKLL2NPKKlCTtPcwcGJkI=', 'HTTPStatusCode': 200,
+ 'HTTPHeaders': {'x-amz-id-2': 'u1aVOXdsnSMYAM0Pw01+Ai5U74xTAT/2Jy98YA7Tu7IkfEIvqTSypFDKLL2NPKKlCTtPcwcGJkI=', 
+'x-amz-request-id': 'FF39D21A6553F0B6', 'date': 'Sat, 21 Sep 2019 13:24:05 GMT', 'x-amz-bucket-region': 'us-east-2', 
+'content-type': 'application/xml', 'transfer-encoding': 'chunked', 'server': 'AmazonS3'}, 'RetryAttempts': 1}, 
+
+'IsTruncated': False, 'Marker': '', 'Contents': [{'Key': 'images12019-9-21/butterfly-2049567__340.jpg', 'LastModified': 
+datetime.datetime(2019, 9, 21, 13, 17, 41, tzinfo=tzutc()), 'ETag': '"626990b728ddce1957aa9077026af1d4"', 'Size': 45002, 
+'StorageClass': 'STANDARD', 'Owner': {'ID': '7603f579307b341dedd3ef83a997b204bd112c7b670a511a4a3a066a9d15a93e'}}],
+ 'Name': 'labelling4', 'Prefix': 'images12019-9-21', 'MaxKeys': 1000, 'EncodingType': 'url'}    
+images12019-9-21/butterfly-2049567__340.jpg
+Please end 1
